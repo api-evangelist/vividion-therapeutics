@@ -53,6 +53,11 @@ tags:
 - Chemoproteomics
 apis: []
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/bayer/
+  name: Bayer
+  x-relationship: acquired
+  x-evidence: "Vividion was acquired by Bayer in 2021 and operates as an independent subsidiary."
 - type: DomainSecurity
   url: security/vividion-therapeutics-domain-security.yml
 - type: Website
